@@ -19,7 +19,7 @@ class App extends Component {
         this.setState({searchField: event.target.value})
     }
     componentDidMount(){
-        fetch('http://ddragon.leagueoflegends.com/cdn/10.25.1/data/en_US/champion.json')
+        fetch('https://ddragon.leagueoflegends.com/cdn/10.25.1/data/en_US/champion.json')
             .then(response => response.json())
             .then(champions => {
                 // Filter out champion id for each champion
