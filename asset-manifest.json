@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lolcard/static/css/main.2ba4d8e1.chunk.css",
+    "main.js": "/lolcard/static/js/main.c294c69e.chunk.js",
+    "main.js.map": "/lolcard/static/js/main.c294c69e.chunk.js.map",
+    "runtime-main.js": "/lolcard/static/js/runtime-main.50becbb9.js",
+    "runtime-main.js.map": "/lolcard/static/js/runtime-main.50becbb9.js.map",
+    "static/css/2.31461e4f.chunk.css": "/lolcard/static/css/2.31461e4f.chunk.css",
+    "static/js/2.7c67c8ee.chunk.js": "/lolcard/static/js/2.7c67c8ee.chunk.js",
+    "static/js/2.7c67c8ee.chunk.js.map": "/lolcard/static/js/2.7c67c8ee.chunk.js.map",
+    "static/js/3.bfe23181.chunk.js": "/lolcard/static/js/3.bfe23181.chunk.js",
+    "static/js/3.bfe23181.chunk.js.map": "/lolcard/static/js/3.bfe23181.chunk.js.map",
+    "index.html": "/lolcard/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/lolcard/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.2ba4d8e1.chunk.css.map": "/lolcard/static/css/main.2ba4d8e1.chunk.css.map",
+    "static/js/2.7c67c8ee.chunk.js.LICENSE.txt": "/lolcard/static/js/2.7c67c8ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50becbb9.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.7c67c8ee.chunk.js",
+    "static/css/main.2ba4d8e1.chunk.css",
+    "static/js/main.c294c69e.chunk.js"
+  ]
+}
